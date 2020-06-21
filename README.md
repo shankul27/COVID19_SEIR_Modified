@@ -2,6 +2,7 @@
 Keeping in mind India’s containment strategy for the novel coronavirus (subsequently named SARS-CoV-2) causing the disease Covid-19, a modification to existing SEIR Model has been done for accurate prediction of R-naught.(Works for all Indian states)
 
 File description:
+
 **Output files as on 21 June for Maharashtra**
 - 21-06 1204 mh 03-04 Active Cases.xls
 - 21-06 1204 mh 03-04 New Cases.xls
