@@ -2,26 +2,26 @@
 Keeping in mind India’s containment strategy for the novel coronavirus (subsequently named SARS-CoV-2) causing the disease Covid-19, a modification to existing SEIR Model has been done for accurate prediction of R-naught.(Works for all Indian states)
 
 File description:
-
+**Output files as on 21 June for Maharashtra**
 - 21-06 1204 mh 03-04 Active Cases.xls
 - 21-06 1204 mh 03-04 New Cases.xls
 - 21-06 1204 mh 03-04 Raw File.xls
 - 21-06 1204 mh 03-04 Total Cases.xls
-**Output files as on 21 June for Maharashtra**
 
+ **Templates to calculate Initially Exposed and Initially Infected patients from govt data given. Input for model.**
 - E and I Distribution.xlsx
 - E and I Template.xlsx
- **Templates to calculate Initially Exposed and Initially Infected patients from govt data given. Input for model.**
 
+**Jupyter notebook code and .py file.** 
 - Modified SEIR Model_v3.ipynb
 - Modified SEIR Model_v3.py
-**Jupyter notebook code and .py file.** 
 
-- SEIR_v3_19 April predictions.pdf
 **Prediction values as done on 19th April for next 2 weeks**
+- SEIR_v3_19 April predictions.pdf
 
-- ReadMe_SEIR_3 May.pdf
 **Updated Read Me and prediction values as calculated on 3rd May for next 2 weeks**
+- ReadMe_SEIR_3 May.pdf
+
 
 
 **Modified SEIR Model**
