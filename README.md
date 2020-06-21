@@ -30,14 +30,23 @@ Keeping in mind India’s containment strategy for the novel coronavirus (subseq
  
 
 S: Susceptible population
+
 E: Exposed population (exposed to the virus but not infectious yet)
+
 I: Infectious population (asymptomatic or symptomatic patients who are infectious but not detected yet)
+
 ID: Detected & Isolated population (detected patients who have been isolated. Even though this population is still infectious, it doesn’t infect anyone anymore as patients at this stage are completely isolated. It is the govt data for active cases)
+
 R: Recovered or Dead population
 
+
+
 β: rate of transmission (transmissions per S-I contact per time)
+
 σ: rate of progression (inverse of incubation period)
+
 γ: rate of detection for infectious individuals (inverse of disease onset to diagnosis time)
+
 δ: rate of recovery (inverse of recovery period)
 
 Equations:
